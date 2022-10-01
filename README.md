@@ -2,7 +2,7 @@
 
 
 To create a GitHub account, visit www.github.com and click on "Sign Up" on the top right of the page. Enter the e-mail address you want to register, create a password, and then a username when prompted. Press "y" or "n" to indicate whether you'd like to receive product updates and announcements via email.
-Now that you're on GitHub,
+Now that you're on GitHub, look at the top right of the page and click the '+' icon. Click "New repository" when the dropdown menu appears. Enter a repository name, add a README file, and choose whether you want it to be public or private. 
 
 
 + **Branch** - is a unique set of code changes with a unique name. By using branches, developers can make changes safely. Each repository can have one or more branches. The main branch - where all changes get merged back into, is called master.
