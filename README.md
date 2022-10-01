@@ -16,4 +16,4 @@ Now that you're on GitHub,
 + **Merge Conflict** - Merge conflicts happen when merge branches have competing commits. While Git can usually resolve differences automatically, sometimes Git needs your help to resolve the conflict. Often, they happen when people make different changes to the same line in the same file. 
 + **Pull** - updates your current local branch and all remote tracking branches. Without using pull, your local branch won't have any updates present on the remote branch. It is the most common way to update your repository.
 + **Push** - Updates the remote branch with local commits. It can be thought of as update or publish. A push can be made after making a commit locally. This makes your commits accessible to others who you may be collaboraing with. Any open pull requests will be updated with the branch being worked on.
-+ *
++ **Remote** - Remote repositories are hosted on the internet or network. They contain versions of your project and help you easily collaborate with others by pushing and pulling data to the remote when you need to share work.
