@@ -9,3 +9,4 @@ Now that you're on GitHub,
 
 + **Cloning** - Cloning is used to create a copy of a specific repository or branch onto the local machine. The ability to work with the entire repository locally means all developers can work more freely.
 + **Commit** - A commit is like a snapshot of your repository. They work like save points within Git. Commits can be made to different branches and users can specify exactly what changes to include. 
++ **Push** - Updates the remote branch with local commits. It can be thought of as update or publish. A push can be made after making a commit locally. This makes your commits accessible to others who you may be collaboraing with. Any open pull requests will be updated with the branch being worked on.
