@@ -5,6 +5,7 @@ To create a GitHub account, visit www.github.com and click on "Sign Up" on the t
 Now that you're on GitHub,
 
 
-+ **Branch** - is a unique set of code changes with a unique name. Each repository can have one or more branches. The main branch - where all changes get merged back into, is called master.
++ **Branch** - is a unique set of code changes with a unique name. By using branches, developers can make changes safely. Each repository can have one or more branches. The main branch - where all changes get merged back into, is called master.
 
-+ **Cloning** - Cloning is a process of creating an identical copy of a Git Remote Repository to the local machine.
++ **Cloning** - Cloning is used to create a copy of a specific repository or branch onto the local machine. The ability to work with the entire repository locally means all developers can work more freely.
++ **Commit** - A commit is like a snapshot of your repository. They work like save points within Git. Commits can be made to different branches and users can specify exactly what changes to include. 
