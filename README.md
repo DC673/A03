@@ -2,7 +2,10 @@
 
 
 To create a GitHub account, visit www.github.com and click on "Sign Up" on the top right of the page. Enter the e-mail address you want to register, create a password, and then a username when prompted. Press "y" or "n" to indicate whether you'd like to receive product updates and announcements via email.
-Now that you're on GitHub, look at the top right of the page and click the '+' icon. Click "New repository" when the dropdown menu appears. Enter a repository name, add a README file, and choose whether you want it to be public or private. 
+Now that you're on GitHub, look at the top right of the page and click the '+' icon. Click "New repository" when the dropdown menu appears. Enter a repository name, add a README file, and choose whether you want it to be public or private.
+Now that the repository is created, it's time to download webstorm by Jetbrains. Webstorm is an integrated development environment with support for JavaScript, HTML, stylesheets, and more. Visit https://www.jetbrains.com/webstorm/ and click "Download". Once you have downloaded Jetbrains and logged in, you can start the process of linking Webstorm to your Github repository.
+Select "Get From VCS" in Webstorm. From there, you will be informed that "Git is not installed" so click on "Download and Install" next to it and Git will install automatically for you. Then, click on GitHub on the left sidebar and log into your GitHub account using the credentials you created when you were on the website. You will then see Webstorm detect your repository on Github and you can clone that repository locally to your machine to work on it via Webstorm.
+The Git application is a command line that takes care of the underlying version control while Github is the collaboration platform. Using commands from Git, you will be able to do many of the things Webstorm can do such as: clone, commit, push, pull, and more.
 
 
 + **Branch** - is a unique set of code changes with a unique name. By using branches, developers can make changes safely. Each repository can have one or more branches. The main branch - where all changes get merged back into, is called master.
